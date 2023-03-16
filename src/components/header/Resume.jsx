@@ -1,10 +1,10 @@
 import React from "react";
-import JTSCODER from "../../assets/newestresume2:7.pdf";
+import JTSCODEuofm from "../../assets/JTSCODEuofm.pdf";
 import "./resume.css";
 const Resume = () => {
   return (
     <div className="Resume">
-      <a href={JTSCODER} download className="btn">
+      <a href={JTSCODEuofm} download className="btn">
         Download Resume
       </a>
     </div>

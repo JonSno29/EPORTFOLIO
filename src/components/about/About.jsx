@@ -35,7 +35,7 @@ const About = () => {
           <p>
            My name is Jon Snover and I am a University Of Minnesota, 
 
-  Full-Stack Coding Bootcamp Student.
+  Full-Stack Coding Bootcamp Graduate.
   
   I came across this coding bootcamp while studying 
 
