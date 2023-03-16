@@ -174,4 +174,3 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 <a href="mailto:snoverjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snoverjon@gmail.com"/></a>
 
-# EPORTFOLIO
