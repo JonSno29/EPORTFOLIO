@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/EPORTFOLIO/static/css/main.1f64fac6.css",
+    "main.js": "/EPORTFOLIO/static/js/main.06d8db2b.js",
+    "static/media/Images.png": "/EPORTFOLIO/static/media/Images.906e22bd571c5d1381b2.png",
+    "static/media/bigcode.jpg": "/EPORTFOLIO/static/media/bigcode.cec53dd93dba9873b700.jpg",
+    "static/media/JTSCODEuofm.pdf": "/EPORTFOLIO/static/media/JTSCODEuofm.976efb0c56670d62f0a3.pdf",
+    "static/media/TRIPPIEBRtSample.png": "/EPORTFOLIO/static/media/TRIPPIEBRtSample.8589b7d629f2d27d4621.png",
+    "static/media/JTSbluetran.png": "/EPORTFOLIO/static/media/JTSbluetran.774aa8808cd9a7ea30a8.png",
+    "static/media/README-1.png": "/EPORTFOLIO/static/media/README-1.5027c862137a4afdc063.png",
+    "static/media/JTS-1.png": "/EPORTFOLIO/static/media/JTS-1.6d2f7c8e70ee451e13ca.png",
+    "static/media/FULL COUNT SOFT WASH-1.png": "/EPORTFOLIO/static/media/FULL COUNT SOFT WASH-1.8dfd9a76dc353cd25370.png",
+    "static/media/CODIOtran.png": "/EPORTFOLIO/static/media/CODIOtran.6800bb6f67971c6ad2ee.png",
+    "static/media/TIK-TAK-CODE-1 (1).png": "/EPORTFOLIO/static/media/TIK-TAK-CODE-1 (1).58bf8d436367c1c9300d.png",
+    "index.html": "/EPORTFOLIO/index.html",
+    "main.1f64fac6.css.map": "/EPORTFOLIO/static/css/main.1f64fac6.css.map",
+    "main.06d8db2b.js.map": "/EPORTFOLIO/static/js/main.06d8db2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f64fac6.css",
+    "static/js/main.06d8db2b.js"
+  ]
+}
