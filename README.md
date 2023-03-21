@@ -101,9 +101,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 <a href="https://github.com/JonSno29/PORTFOLIO-JTS.git" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>
 
-🎗 <https://github.com/JonSno29/Folio.git>
+🎗 <https://github.com/JonSno29/EPORTFOLIO.git>
 
-🎗 <https://jonsno29.github.io/Folio/>
+🎗 <https://jonsno29.github.io/EPORTFOLIO/>
  
 🎗 MOCK-UP IMAGES:
 
