@@ -1,12 +1,12 @@
 header {
-  height: 100vh;
-  padding-top: 7rem;
+  height: 150vh;
+  padding-top: 2rem;
   overflow: hidden;
 }
 
 .header__container {
   text-align: center;
-  height: 100%;
+  height: 90%;
   position: relative;
   font-size: 22px;
   color: rgb(109, 195, 228);
@@ -44,12 +44,11 @@ header {
 .me {
   background: linear-gradient(var(--color-primary), transparent);
   width: 30rem;
-  height: 30rem;
+  height: 20rem;
   position: absolute;
   left: calc(50% - 15rem);
-  margin-top: 4rem;
+  margin-top: 3rem;
   border-radius: 12rem 12rem 0 0;
-  overflow: hidden;
   padding: 5rem 1.5rem 1.5rem 1.5rem;
 }
 
@@ -64,20 +63,16 @@ header {
 }
 
 /* ========== MEDIA QUERIES (MEDIUM DEVICES) ========== */
-@media screen and (max-width: 1024px) {
-  header {
-    height: 70vh;
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
   }
 }
 
-/* ========== MEDIA QUERIES (SMALL DEVICES) ========== */
-@media screen and (max-width: 600px) {
-  header {
-    height: 100vh;
-  }
-
-  .header__socials,
-  .scroll__down {
-    display: none;
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
   }
 }
