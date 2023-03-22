@@ -48,7 +48,7 @@ const data = [
     image: IMG6,
     title: "Our final coding bootcamp project three, TIK-TAK-CODE ",
     github:"https://github.com/vivid20221/Tik-Tak-Code.git",
-    demo:  "https://github.com/vivid20221/Tik-Tak-Code.git",
+    demo:  "https://sleepy-peak-49948.herokuapp.com/",
   },
 ];
 
