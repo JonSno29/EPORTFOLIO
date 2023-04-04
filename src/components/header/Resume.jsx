@@ -1,5 +1,5 @@
 import React from "react";
-import JTSCODEuofm from "../../assets/JTSCODEuofm.pdf";
+import JTSCODEuofm from "../../assets/JTS";
 import "./resume.css";
 const Resume = () => {
   return (
