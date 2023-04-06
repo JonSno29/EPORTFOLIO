@@ -43,17 +43,22 @@
 }
 
 /* ========== MEDIA QUERIES (MEDIUM DEVICES) ========== */
-@media screen and (max-width: 1024px) {
-  .portfolio__container {
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 1.2rem;
-  }
+@media screen and (max-width: 1300px){
+
 }
 
-/* ========== MEDIA QUERIES (SMALL DEVICES) ========== */
-@media screen and (max-width: 600px) {
-  .portfolio__container {
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 1rem;
-  }
+/* Media Queries (medium devices) */
+@media screen and (max-width: 1024px){
+    .portfolio__container {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.2rem;
+    }
+
+}
+
+/* Media Queries (small devices) */
+@media screen and (max-width: 600px){
+    .portfolio__container {
+        grid-template-columns: 1fr;
+    }
 }

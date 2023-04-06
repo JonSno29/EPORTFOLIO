@@ -70,15 +70,18 @@ textarea {
 
 /* ========== MEDIA QUERIES (MEDIUM DEVICES) ========== */
 @media screen and (max-width: 1024px) {
-  .container.contact__container {
-    grid-template-columns: 1fr;
-    gap: 2rem;
-  }
+    .container.contact__container {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
 }
 
-/* ========== MEDIA QUERIES (SMALL DEVICES) ========== */
+/* Media queries SM */
+
 @media screen and (max-width: 600px) {
-  .container.contact__container {
-    width: var(--container-width-sm);
-  }
-}
+    .container.contact__container {
+        width: var(--container-width-sm);
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+    }

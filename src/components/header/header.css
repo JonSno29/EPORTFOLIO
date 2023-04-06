@@ -63,16 +63,29 @@ header {
 }
 
 /* ========== MEDIA QUERIES (MEDIUM DEVICES) ========== */
-@media only screen and (max-width: 768px) {
-  /* For mobile phones: */
-  [class*="col-"] {
-    width: 100%;
-  }
-}
+@media screen and (max-width: 600px) {
+    header {
+        height: 100vh;
+    }
+    .header__socials {
+        display: block;
+        position: relative;
+        bottom:0px;
+        margin-top: 2rem;
+        
+    }
 
-@media only screen and (max-width: 768px) {
-  /* For mobile phones: */
-  [class*="col-"] {
-    width: 100%;
-  }
+    .header__socials > a {
+        padding: 1rem;
+    }
+
+    .scroll__down {
+        display: none;
+    }
+
+    .me {
+        margin-top: .5rem;
+    }
+
+
 }
